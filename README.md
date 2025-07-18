@@ -1,35 +1,95 @@
-# ✅ Advanced Python CLI To-Do List Manager 📝
+ 📝 Advanced Python CLI To-Do List Manager
 
-An internship-ready, advanced console-based **To-Do List Application** built in Python.  
-This app allows users to manage tasks with priority levels, due dates, search and sort functionality, and completion tracking — all from a simple command-line interface.
-
----
-
-## 🚀 Features
-
-- ➕ **Add Tasks** with priority and due date  
-- ❌ **Remove Tasks**  
-- ✅ **Mark Tasks as Completed**  
-- 📂 **View Completed Tasks** (saved separately)  
-- 🔍 **Search Tasks** by keyword  
-- 📊 **Sort Tasks** by priority or due date  
-- 📋 **Persistent Storage** using `.txt` files  
-- 🧠 Input validation and helpful prompts  
-- 🕒 Timestamps for created and completed tasks
+A powerful and interactive **console-based To-Do List Application** built in Python.  
+This project is designed for internship and beginner-level experience, offering task management features like priority, due dates, search, sort, and task completion — all in one terminal-based app.
 
 ---
 
-## 📦 Requirements
+ 🚀 Features
 
-- Python 3.x (no external packages required)
+ - ➕ Add new tasks with:
+ - Priority (High / Medium / Low)
+ - Due date
+ - Timestamp (auto)
+ - ❌ Remove existing tasks
+ - ✅ Mark tasks as completed (saved separately)
+ - 📂 View completed task history
+ - 🔍 Search tasks by keyword
+ - 📊 Sort tasks by:
+ - Priority
+ - Due Date
+ - 💾 Persistent file storage using `.txt` files
+ - 🧠 Input validation for options and fields
 
 ---
 
-## ▶ How to Run
+ 📦 Requirements
 
-1. Clone the repository or copy the files.
-2. Make sure you're in the project folder.
-3. Run the main file using:
+- Python 3.x
 
-```bash
+> No external libraries are needed — uses only the built-in `datetime` module.
+
+---
+
+ 📥 Install / Dependencies
+
+No installation required!  
+Just clone the repository or download the files and run the program.
+
+---
+
+ ▶️ How to Run
+
+Open your terminal in the project directory and run:
+
+bash
 python todo.py
+
+ 📂 Project Structure
+
+
+calculator.py   # Main Python file
+README.md       # Project documentation
+
+
+---
+
+ 📸 Preview
+
+bash
+╔══════════════════════════════════╗
+Welcome to the Python To-do list Application
+╚══════════════════════════════════╝
+
+
+ Operations:
+
+1.View All Tasks
+2.Add New Task
+3.Remove Task
+4.Mark Task as Completed
+5.View Completed Tasks
+6.Search Tasks
+7.Sort Tasks
+8.Exit the App
+
+---
+
+ 👨‍💻 Author
+
+- GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
+
+
+---
+
+ 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+ 
+ 🔗 GitHub Repository
+ 📁 View on GitHub
+
+
+
