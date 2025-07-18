@@ -1,7 +1,7 @@
- 📝 Advanced Python CLI To-Do List Manager
+ 📝 Python CLI To-Do List Application
 
 A powerful and interactive **console-based To-Do List Application** built in Python.  
-This project is designed for internship and beginner-level experience, offering task management features like priority, due dates, search, sort, and task completion — all in one terminal-based app.
+This project is designed for offering task management features like priority, due dates, search, sort, and task completion — all in one terminal-based app.
 
 ---
 
@@ -64,13 +64,19 @@ Welcome to the Python To-do list Application
 
  Operations:
 
-1.View All Tasks
+1.View All Tasks                                                                                                                                                                                                      
 2.Add New Task
+
 3.Remove Task
+
 4.Mark Task as Completed
+
 5.View Completed Tasks
+
 6.Search Tasks
+
 7.Sort Tasks
+
 8.Exit the App
 
 ---
@@ -86,10 +92,7 @@ Welcome to the Python To-do list Application
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
- 
- 🔗 GitHub Repository
- 📁 View on GitHub
+
 
 
 
