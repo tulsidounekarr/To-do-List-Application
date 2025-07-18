@@ -45,12 +45,13 @@ Open your terminal in the project directory and run:
 bash
 python todo.py
 
+---
+
  📂 Project Structure
 
+calculator.py # Main Python file
 
-calculator.py   # Main Python file
-
-README.md       # Project documentation
+README.md # Project documentation
 
 
 ---
