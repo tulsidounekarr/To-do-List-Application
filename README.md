@@ -58,15 +58,18 @@ README.md # Project documentation
 
  📸 Preview
 
+ ---
+
 bash
 ╔══════════════════════════════════╗
 Welcome to the Python To-do list Application
 ╚══════════════════════════════════╝
 
+--- 
 
  Operations:
 
-1.View All Tasks                                                                                                                                                                                                    
+1.View All Tasks                                                                                                                                                                                              
 2.Add New Task
 3.Remove Task
 4.Mark Task as Completed
