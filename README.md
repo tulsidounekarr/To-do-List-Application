@@ -59,9 +59,7 @@ README.md # Project documentation
  📸 Preview
  📸 Screenshot
 
-<p align="center">
-  <img src="images/screenshot.png" alt="To-Do CLI Preview"/>
-</p>
+[image alt](image ur)
 
  ---
 
