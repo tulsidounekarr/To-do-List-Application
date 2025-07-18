@@ -49,6 +49,7 @@ python todo.py
 
 
 calculator.py   # Main Python file
+
 README.md       # Project documentation
 
 
@@ -64,19 +65,13 @@ Welcome to the Python To-do list Application
 
  Operations:
 
-1.View All Tasks                                                                                                                                                                                                      
+1.View All Tasks                                                                                                                                                                                                    
 2.Add New Task
-
 3.Remove Task
-
 4.Mark Task as Completed
-
 5.View Completed Tasks
-
 6.Search Tasks
-
 7.Sort Tasks
-
 8.Exit the App
 
 ---
